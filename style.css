@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   
+}
+
+#img{
+    
+  max-height:100px ;  
+    max-width: 100px;
+
+}
